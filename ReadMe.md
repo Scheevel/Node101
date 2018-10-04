@@ -34,6 +34,7 @@ git clone https://github.com/rajeshramabathiran/Node101.git
 
 ```
 npm install
+npm install gulp
 ```
 
 Notice that all dependencies are now available in `node_modules` folder.
